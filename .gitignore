@@ -1,0 +1,6 @@
+Plaintext
+target/
+.classpath
+.project
+.settings/
+.mvn/
